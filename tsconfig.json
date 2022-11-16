@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "checkJs": true,
+    "strict": true,
+    "target": "ESNext",
+    "outDir": "./build"
+  }
+}
